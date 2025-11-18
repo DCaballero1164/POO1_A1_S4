@@ -1,4 +1,4 @@
-# 🧠 Sumativa 1 - Semana 4 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad formativa 3 - Semana 4 – Desarrollo Orientado a Objetos I
 
 👤 Autor del proyecto
 
