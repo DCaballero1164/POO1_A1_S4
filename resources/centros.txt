@@ -1,0 +1,6 @@
+Isla Huar;Calbuco;1200
+Isla Puluqui;Calbuco;700
+Canal Tenglo;Puerto Montt
+Bahía Ilque;Puerto Varas;1350
+Canal Dalcahue;Dalcahue;1620
+Isla Mechuque;Quemchi;880
