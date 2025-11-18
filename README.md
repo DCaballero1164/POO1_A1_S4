@@ -31,12 +31,12 @@ La actividad se centra principalmente en la carga y manipulación de datos exter
 
 ```
 📁 src/
-├── ui/          # Clase principal con el método main y la ejecución del programa.
-├── model/       # Clase de dominio: CentroCultivo.
-└── data/        # Clase GestorDatos (lectura del archivo .txt).
+├── ui/              # Clase principal con el método main y la ejecución del programa.
+├── model/           # Clase de dominio: CentroCultivo.
+└── data/            # Clase GestorDatos (lectura del archivo .txt).
 
 📁 resources/
-└── centros.txt        # Archivos de datos utilizados por GestorDatos.
+└── centros.txt      # Archivos de datos utilizados por GestorDatos.
 ```
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
