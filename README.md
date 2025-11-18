@@ -31,15 +31,14 @@ La actividad se centra principalmente en la carga y manipulación de datos exter
 
 ```
 📁 src/
-├── app/         # Clase principal con el método main
-├── model/       # Clases de dominio utilizadas para representar los datos
-├── data/        # GestorDatos y clases responsables de leer .txt
-├── utils/       # Métodos auxiliares o validaciones
-└── interfaces/  # Interfaces implementadas por las clases
+├── ui/          # Clase principal con el método main y la ejecución del programa.
+├── model/       # Clase de dominio: CentroCultivo.
+└── data/        # Clase GestorDatos (lectura del archivo .txt).
 
 📁 resources/
-└── *.txt        # Archivos de datos utilizados por GestorDatos
+└── centros.txt        # Archivos de datos utilizados por GestorDatos.
 ```
+
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
 Clona el repositorio desde GitHub:
@@ -50,11 +49,11 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 Abre el proyecto en IntelliJ IDEA.
 
 Verifica que el archivo .txt esté ubicado en /resources/.
-Esta carpeta debe estar paralela a src/ para permitir acceder a los datos mediante rutas relativas o lectura directa con FileReader.
+Esta carpeta debe estar en una ubicacion paralela a src/ para permitir acceder a los datos mediante rutas relativas o lectura directa con FileReader.
 
-Ejecuta el archivo Main.java desde el paquete app/.
+Ejecuta el archivo Main.java desde el paquete ui/.
 
-Observa en consola la carga de datos y el comportamiento del sistema.
+Observa en consola la carga de datos y el comportamiento del sistema con el filtro aplicado (producción > 1000 toneladas).
 
 🔗 Repositorio GitHub
 
