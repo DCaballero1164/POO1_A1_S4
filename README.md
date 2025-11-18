@@ -1,4 +1,4 @@
-# 🧠 Sumativa 1 - Semana 3 – Desarrollo Orientado a Objetos I
+# 🧠 Sumativa 1 - Semana 4 – Desarrollo Orientado a Objetos I
 
 👤 Autor del proyecto
 
@@ -9,6 +9,8 @@ Sección: Programacion Orientada a Objetos I
 Carrera: Analista Programador Computacional
 
 Sede: Campus Virtual
+
+📘 Descripción general del sistema
 
 Este proyecto corresponde a la Actividad de la Semana 4 de la asignatura Desarrollo Orientado a Objetos I.
 El objetivo central del trabajo es leer, procesar y gestionar información almacenada en archivos .txt, aplicando correctamente los principios básicos de la programación orientada a objetos.
@@ -27,6 +29,7 @@ Durante el desarrollo del proyecto se implementó:
 
 La actividad se centra principalmente en la carga y manipulación de datos externos, fortaleciendo el uso de POO en conjunto con técnicas de entrada/salida de archivos y validación básica.
 
+...
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio utilizadas para representar los datos
@@ -36,6 +39,7 @@ La actividad se centra principalmente en la carga y manipulación de datos exter
 
 📁 resources/
 └── *.txt        # Archivos de datos utilizados por GestorDatos
+...
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
